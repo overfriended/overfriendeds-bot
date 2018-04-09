@@ -1,3 +1,3 @@
 # OVERFRIENDED'S BOT
 ## Based
-Off of OhGodMusicBot for music.
+Off of https://github.com/bdistin/OhGodMusicBot for music. Modified for personal use by overfriended.
